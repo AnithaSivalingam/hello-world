@@ -1,1 +1,2 @@
-# hello-world, this is anitha and i like to code. I have knowledge on python.
+Hi everyone,
+This is anitha and i like to code. I have knowledge on python.
